@@ -1,0 +1,16 @@
+C:\Users\Asus\Downloads\c# project\new\University_Management\University_Management\bin\Debug\University_Management.exe.config
+C:\Users\Asus\Downloads\c# project\new\University_Management\University_Management\bin\Debug\University_Management.exe
+C:\Users\Asus\Downloads\c# project\new\University_Management\University_Management\bin\Debug\University_Management.pdb
+C:\Users\Asus\Downloads\c# project\new\University_Management\University_Management\obj\Debug\University_Management.csprojAssemblyReference.cache
+C:\Users\Asus\Downloads\c# project\new\University_Management\University_Management\obj\Debug\University_Management.AdminForm.resources
+C:\Users\Asus\Downloads\c# project\new\University_Management\University_Management\obj\Debug\University_Management.AdminInformation.resources
+C:\Users\Asus\Downloads\c# project\new\University_Management\University_Management\obj\Debug\University_Management.CourseInfo.resources
+C:\Users\Asus\Downloads\c# project\new\University_Management\University_Management\obj\Debug\University_Management.LoginForm.resources
+C:\Users\Asus\Downloads\c# project\new\University_Management\University_Management\obj\Debug\University_Management.Properties.Resources.resources
+C:\Users\Asus\Downloads\c# project\new\University_Management\University_Management\obj\Debug\University_Management.SectionInfo.resources
+C:\Users\Asus\Downloads\c# project\new\University_Management\University_Management\obj\Debug\University_Management.StudentForm.resources
+C:\Users\Asus\Downloads\c# project\new\University_Management\University_Management\obj\Debug\University_Management.StudentGrade.resources
+C:\Users\Asus\Downloads\c# project\new\University_Management\University_Management\obj\Debug\University_Management.csproj.GenerateResource.cache
+C:\Users\Asus\Downloads\c# project\new\University_Management\University_Management\obj\Debug\University_Management.exe
+C:\Users\Asus\Downloads\c# project\new\University_Management\University_Management\obj\Debug\University_Management.pdb
+C:\Users\Asus\Downloads\c# project\new\University_Management\University_Management\obj\Debug\University_Management.StudentGradeShowForm.resources
